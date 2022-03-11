@@ -1,7 +1,5 @@
-#EXTM3U
+#EXTINF:-1, Guardian Talk Radio
+https://58ecba5577693.streamlock.net/tngr969fm/smil:tngr969fm.smil/chunklist_w1580938730_b1596000_sleng.m3u8
 
-#EXTINF:123, BigBuckBunny - BigBuckBunny
+#EXTINF:-1, ZNS TV (1080p)
 https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w657510304_b2628000_sleng.m3u8
-
-#EXTINF:321,ElephantsDream - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
