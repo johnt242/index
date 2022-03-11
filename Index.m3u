@@ -9,3 +9,6 @@ https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w65
 
 #EXTINF:-1, Parliamentary Channel (1080p)
 https://5eb3359c4798d.streamlock.net/parliamentarychannel/smil:parliamentarychannel_streams.smil/chunklist_w681576415_b1228000_sleng.m3u8
+
+#EXTINF:-1, Island Luck (1080p)
+https://wowzaprod225-i.akamaihd.net/hls/live/1006296/2153f25a/playlist.m3u8
