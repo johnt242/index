@@ -1,11 +1,6 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-id="HewadTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/RkcUtMK.jpg" group-title="Afghanistan",Hewad TV (720p) [Not 24/7]
-http://51.210.199.58/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KayhanTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Afghanistan",Kayhan TV (720p) [Geo-blocked]
-http://208.93.117.113/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="PamirTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="" group-title="Afghanistan",Pamir TV (1080p) [Not 24/7]
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/G7Zn0gN.png" group-title="Afghanistan",Payam-e-Afghan TV (480p) [Not 24/7]
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-country="INT" tvg-language="English" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg" group-title="Afghanistan",Peace TV English (1080p)
-http://199.223.252.162:8032/english_adaptive/index.m3u8
+#EXTINF:123, BigBuckBunny - BigBuckBunny
+https://58ecba5577693.streamlock.net/tngr969fm/smil:tngr969fm.smil/chunklist_w1580938730_b1596000_sleng.m3u8
+#EXTINF:321,ElephantsDream - ElephantsDream
+https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w657510304_b2628000_sleng.m3u8
