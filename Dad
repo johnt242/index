@@ -13,24 +13,14 @@ http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211369
 #EXTINF:-1, NEWS MAX (720p)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
-#EXTINF:-1, CBSN (New York)
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_8.m3u8
-
 #EXTINF:-1, EURONEWS
 https://stream-02.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxV5kNpA3oP0kFhhjP0vKQ8)/dm/3/x2j4h4m/s/live-1.m3u8#cell=lnyc
-
 
 #EXTINF:-1, EURONEWS HD
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:-1, OAN
 https://cdn.klowdtv.net/803B48A/aws_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/AWS_Fast_Channels/e6417e6d-65fb-4307-8fad-776ae3dfdba2/2.m3u8
-
-#EXTINF:-1, CNN HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211280
-
-#EXTINF:-1, CNN 4K
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211392
 
 #EXTINF:-1, FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
