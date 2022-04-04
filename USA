@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, NBC
+https://trn03.tulix.tv/teleup-nbc-wgal-new1/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1, CBS
 https://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
 
