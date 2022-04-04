@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, CBS
+https://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
+
 #EXTINF:-1, CBS NEWS
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/90db170c-3dfc-465b-99f8-683070eaf8df:MRN2/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3394688.m3u8
 
