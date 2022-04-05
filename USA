@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, TruTV
+#EXTINF:-1, TruTV (LALA)
 https://uload.ru.com/cdn/premium341/chunks.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1, CBS (LALA)
+https://uload.ru.com/cdn/premium52/chunks.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1, NBC (LALA)
+https://uload.ru.com/cdn/premium53/chunks.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1, ABC (LALA)
+https://uload.ru.com/cdn/premium51/chunks.m3u8|referer=https://player.licenses4.me/
 
 
 #EXTINF:-1, ABC USTVGO
