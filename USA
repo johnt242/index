@@ -17,8 +17,6 @@ https://uload.ru.com/cdn/premium53/chunks.m3u8|referer=https://player.licenses4.
 https://uload.ru.com/cdn/premium51/chunks.m3u8|referer=https://player.licenses4.me/
 
 
-#EXTINF:-1, ABC USTVGO
-https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgMTI6NTM6NDUgUE0maGFzaF92YWx1ZT1NVVJ1Y21IU3pOcXlWdkdlUDNBZ1JBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, NBC KODI
 http://live.tv247.club/tv247/nbc.m3u8|Referer=http://tv247.us/all-channels/
@@ -32,19 +30,12 @@ https://trn03.tulix.tv/teleup-nbc-wgal-new1/tracks-v2a1/mono.m3u8
 #EXTINF:-1, CBS
 https://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
 
-#EXTINF:-1, CBS NEWS
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/90db170c-3dfc-465b-99f8-683070eaf8df:MRN2/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3394688.m3u8
-
 #EXTINF:-1, FOX NEWS
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
 
 
-#EXTINF:-1, FOX NEWS 4K
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211160
 
-#EXTINF:-1, FOX NEWS HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211369
 
 #EXTINF:-1, NEWS MAX (720p)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
