@@ -61,8 +61,8 @@ https://cdn.klowdtv.net/803B48A/oane_aws_mt/v1/manifest/d138761b0916ee5f222129c5
 #EXTINF:-1, CNN HD
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211280
 
-#EXTINF:-1, CNN 4K
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211392
+#EXTINF:-1, GAME SHOW NETWORK
+https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTI6MzA6MTIgQU0maGFzaF92YWx1ZT1QUXgwdFhrc055WnpkeHJkcHU5TXhnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
