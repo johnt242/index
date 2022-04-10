@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28nev26pbwmgdvyzpe"
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="(no group)",AMC
 https://uload.ru.com/cdn/premium303/chunks.m3u8|referer=https://player.licenses4.me/
 #EXTINF:-1 tvg-id="KABC.us" tvg-name="ABC (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="(no group)",ABC (LALA)
