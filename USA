@@ -15,6 +15,8 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://uload.ru.com/cdn/premium345/chunks.m3u8|referer=https://player.licenses4.me/
 #EXTINF:-1 tvg-id="WDCW.us" tvg-name="THE CW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" group-title="(no group)",THE CW
 https://uload.ru.com/cdn/premium300/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY(LALA)" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="(no group)",DISCOVERY (LALA)
+https://uload.ru.com/cdn/premium51/chunks.m3u8|referer=https://player.licenses4.me/
 #EXTINF:-1 tvg-id="EuroNews.us" tvg-name="EURONEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28174_dark_360w_270h.png" group-title="(no group)",EURONEWS
 https://stream-02.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxV5kNpA3oP0kFhhjP0vKQ8)/dm/3/x2j4h4m/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="EuroNews.us" tvg-name="EURONEWS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28174_dark_360w_270h.png" group-title="(no group)",EURONEWS HD
