@@ -1,84 +1,63 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/5g28nev26pbwmgwvyzpe"
-
-#EXTINF:-1 tvg-id="EuroNews.us" tvg-name="EURONEWS" tvg-logo="" group-title="(no group)",EURONEWS
-https://stream-02.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxV5kNpA3oP0kFhhjP0vKQ8)/dm/3/x2j4h4m/s/live-1.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="" group-title="(no group)",FOX NEWS
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(truTV.us)" tvg-name="TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="(no group)",TRU TV (LALA)
-https://uload.ru.com/cdn/premium341/chunks.m3u8|referer=https://player.licenses4.me/
-
-#EXTINF:-1, CBS (LALA)
-https://uload.ru.com/cdn/premium52/chunks.m3u8|referer=https://player.licenses4.me/
-
-#EXTINF:-1, NBC (LALA)
-https://uload.ru.com/cdn/premium53/chunks.m3u8|referer=https://player.licenses4.me/
-
-#EXTINF:-1, ABC (LALA)
+#EXTM3U
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="(no group)",AMC
+https://uload.ru.com/cdn/premium303/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="KABC.us" tvg-name="ABC (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="(no group)",ABC (LALA)
 https://uload.ru.com/cdn/premium51/chunks.m3u8|referer=https://player.licenses4.me/
-
-
-
-#EXTINF:-1, NBC KODI
-http://live.tv247.club/tv247/nbc.m3u8|Referer=http://tv247.us/all-channels/
-
-#EXTINF:-1, ABC KODI
+#EXTINF:-1 tvg-id="ABCNationalFeed.us" tvg-name="ABC KODI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="(no group)",ABC KODI
 http://live.tv247.club/tv247/abcus.m3u8|Referer=http://tv247.us/all-channels/
-
-#EXTINF:-1, NBC
-https://trn03.tulix.tv/teleup-nbc-wgal-new1/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1, CBS
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="(no group)",CBS (LALA)
+https://uload.ru.com/cdn/premium52/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="(no group)",CBS
 https://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
-
-#EXTINF:-1, FOX NEWS
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(FNCHD).us" tvg-name="FOX NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="(no group)",FOX NEWS (LALA)
-https://uload.ru.com/cdn/premium347/chunks.m3u8|referer=https://player.licenses4.me/
-
-#EXTINF:-1, NEWS MAX (720p)
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
-#EXTINF:-1, CBSN (New York)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN (NEW YORK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/CBSN_logo_%282021%29.svg/1280px-CBSN_logo_%282021%29.svg.png" group-title="(no group)",CBSN (NEW YORK)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_8.m3u8
-
-#EXTINF:-1, EURONEWS
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="(no group)",CNN (LALA)
+https://uload.ru.com/cdn/premium345/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="THE CW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" group-title="(no group)",THE CW
+https://uload.ru.com/cdn/premium300/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="EuroNews.us" tvg-name="EURONEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28174_dark_360w_270h.png" group-title="(no group)",EURONEWS
 https://stream-02.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxV5kNpA3oP0kFhhjP0vKQ8)/dm/3/x2j4h4m/s/live-1.m3u8#cell=lnyc
-
-#EXTINF:-1, EURONEWS HD
+#EXTINF:-1 tvg-id="EuroNews.us" tvg-name="EURONEWS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28174_dark_360w_270h.png" group-title="(no group)",EURONEWS HD
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-
-#EXTINF:-1, OAN
-https://cdn.klowdtv.net/803B48A/aws_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/AWS_Fast_Channels/e6417e6d-65fb-4307-8fad-776ae3dfdba2/2.m3u8
-
-#EXTINF:-1, OAN PLUS
-https://cdn.klowdtv.net/803B48A/oane_aws_mt/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/ece86733-8a7b-4c37-9859-553c21ad7747/1.m3u8
-
-
-#EXTINF:-1, CNN HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211280
-
-#EXTINF:-1, GAME SHOW NETWORK
-https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTI6MzA6MTIgQU0maGFzaF92YWx1ZT1QUXgwdFhrc055WnpkeHJkcHU5TXhnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1, FRANCE 24
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="(no group)",FOOD NETWORK
+https://h5.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjIgMTI6NTY6MTIgUE0maGFzaF92YWx1ZT1NL1lVMitrVUR2L3NYUk1yVmlEWkRRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="(no group)",FOX NEWS (LALA)
+https://uload.ru.com/cdn/premium347/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="(no group)",FOX NEWS CHANNEL
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX BUSINESS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="(no group)",FOX BUSINESS
+https://h2.ustvgo.la/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=196814302&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjoxODowMCBQTSZoYXNoX3ZhbHVlPUFaN0JqZjBDeThQQ0c2SXVMVGF0eGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-id="France24English.us" tvg-name="FRANCE 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="(no group)",FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-
-
-#EXTINF:-1, FRANCE 24 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME SHOW NETWORK" tvg-logo="" group-title="(no group)",GAME SHOW NETWORK
+https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTI6MzA6MTIgQU0maGFzaF92YWx1ZT1QUXgwdFhrc055WnpkeHJkcHU5TXhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="France24English.us" tvg-name="FRANCE 24 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="(no group)",FRANCE 24 HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8?fQskFDpnT5rPWhaJ8hbCvvA5O7RSG8ryM23K0DYhiaR1xaxqgPR3iibASzfBU5zv0gzyXI1jsaC_mBj0nlWQRRAGtGaKxW9NCj4
-
-#EXTINF:-1, Guardian Talk Radio
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="GAME SHOW NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="(no group)",GAME SHOW NETWORK
+https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTI6MzA6MTIgQU0maGFzaF92YWx1ZT1QUXgwdFhrc055WnpkeHJkcHU5TXhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="(no group)",TRU TV (LALA)
+https://uload.ru.com/cdn/premium341/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC (LALA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="(no group)",MSNBC (LALA)
+https://uload.ru.com/cdn/premium327/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="NBCWNBC(src01).us" tvg-name="NBC (LALA)" tvg-logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" group-title="(no group)",NBC (LALA)
+https://uload.ru.com/cdn/premium53/chunks.m3u8|referer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="NBC.(WESH).Winter.Park,.FL.us" tvg-name="NBC KODI" tvg-logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" group-title="(no group)",NBC KODI
+http://live.tv247.club/tv247/nbc.m3u8|Referer=http://tv247.us/all-channels/
+#EXTINF:-1 tvg-id="NBC.(WESH).Winter.Park,.FL.us" tvg-name="NBC" tvg-logo="https://www.futuromediagroup.org/wp-content/uploads/2017/03/nbc-logo.jpg" group-title="(no group)",NBC
+https://trn03.tulix.tv/teleup-nbc-wgal-new1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NEWS MAX (720P)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="(no group)",NEWS MAX (720P)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82542_dark_360w_270h.png" group-title="(no group)",OAN
+https://cdn.klowdtv.net/803B48A/aws_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/AWS_Fast_Channels/e6417e6d-65fb-4307-8fad-776ae3dfdba2/2.m3u8
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN PLUS" tvg-logo="https://www.oan.plus/images/logos/OAN-Plus.png" group-title="(no group)",OAN PLUS
+https://cdn.klowdtv.net/803B48A/oane_aws_mt/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/ece86733-8a7b-4c37-9859-553c21ad7747/1.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="(no group)",THE WEATHER CHANNEL
+https://h4.ustvgo.la/TWC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjIgMTI6NTU6MjYgQU0maGFzaF92YWx1ZT15Wkxud0R5aExJUitOL3hyTUlVVUZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUARDIAN TALK RADIO" tvg-logo="https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png" group-title="(no group)",GUARDIAN TALK RADIO
 https://58ecba5577693.streamlock.net/tngr969fm/smil:tngr969fm.smil/chunklist_w1580938730_b1596000_sleng.m3u8
-
-#EXTINF:-1, ZNS TV (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZNS TV (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/ZNS-TV_HD_2017.png" group-title="(no group)",ZNS TV (1080P)
 https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w657510304_b2628000_sleng.m3u8
-
-#EXTINF:-1, Parliamentary Channel (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARLIAMENTARY CHANNEL (1080P)" tvg-logo="https://znsbahamas.com/wp-content/uploads/2021/06/HOAweb-03-1024x878.jpg" group-title="(no group)",PARLIAMENTARY CHANNEL (1080P)
 https://5eb3359c4798d.streamlock.net/parliamentarychannel/smil:parliamentarychannel_streams.smil/chunklist_w681576415_b1228000_sleng.m3u8
-
-#EXTINF:-1, Island Luck (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ISLAND LUCK (1080P)" tvg-logo="https://azulify.com/wp-content/themes/azulify/images/Island_Luck_logo.png" group-title="(no group)",ISLAND LUCK (1080P)
 https://wowzaprod225-i.akamaihd.net/hls/live/1006296/2153f25a/playlist.m3u8
