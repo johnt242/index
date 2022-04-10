@@ -35,8 +35,8 @@ https://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
 #EXTINF:-1, FOX NEWS
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
-
-
+#EXTINF:-1, FOX NEWS (LALA)
+https://uload.ru.com/cdn/premium347/chunks.m3u8|referer=https://player.licenses4.me/
 
 
 #EXTINF:-1, NEWS MAX (720p)
