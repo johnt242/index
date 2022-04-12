@@ -32,8 +32,7 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 https://h2.ustvgo.la/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=196814302&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjoxODowMCBQTSZoYXNoX3ZhbHVlPUFaN0JqZjBDeThQQ0c2SXVMVGF0eGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="France24English.us" tvg-name="FRANCE 24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="(no group)",FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME SHOW NETWORK" tvg-logo="" group-title="(no group)",GAME SHOW NETWORK
-https://h3.ustvgo.la/GSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTI6MzA6MTIgQU0maGFzaF92YWx1ZT1QUXgwdFhrc055WnpkeHJkcHU5TXhnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 tvg-id="France24English.us" tvg-name="FRANCE 24 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70130_dark_360w_270h.png" group-title="(no group)",FRANCE 24 HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8?fQskFDpnT5rPWhaJ8hbCvvA5O7RSG8ryM23K0DYhiaR1xaxqgPR3iibASzfBU5zv0gzyXI1jsaC_mBj0nlWQRRAGtGaKxW9NCj4
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="GAME SHOW NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="(no group)",GAME SHOW NETWORK
